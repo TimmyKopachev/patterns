@@ -9,7 +9,8 @@
         <module>switch-resolver</module>
         <module>strategy</module>
         <module>command</module>
-        <module>template</module>
+        <module>template-method</module>
+        <module>chain-responsibility</module>
     </modules>
 
     <artifactId>patterns</artifactId>
